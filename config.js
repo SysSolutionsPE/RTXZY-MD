@@ -29,14 +29,14 @@ global.packname = 'Made with'
 global.author = '𝐒𝐘𝐒𝕊𝕠𝕝𝕦𝕥𝕚𝕠𝕟𝕤'
 global.alpiskey = 'a25d62c9' //daftar sendiri jika key habis https://alpis.eu.org
 
-global.btc = 'YOUR_APIKEY_HERE' //Daftar terlebih dahulu https://api.botcahx.live
-global.lann = 'YOUR_APIKEY_HERE' //Note Key Ini Hanya Bertahan Selama 4 Day Sejak Config.js update! lebih baik register di https://api.betabotz.me
+global.btc = 'wyMUT6hb' //Daftar terlebih dahulu https://api.botcahx.live
+global.lann = '5Db5PFby' //Note Key Ini Hanya Bertahan Selama 4 Day Sejak Config.js update! lebih baik register di https://api.betabotz.me
 global.APIs = { 
   tio: 'https://api.botcahx.live',
   alpis: 'https://alpis.eu.org'
 }
 global.APIKeys = { 
-  'https://api.botcahx.live': 'YOUR_APIKEY_HERE' //isi apikey mu https://api.botcahx.live
+  'https://api.botcahx.live': 'wyMUT6hb' //isi apikey mu https://api.botcahx.live
 }
 
 global.multiplier = 45
