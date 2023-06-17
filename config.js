@@ -2,32 +2,32 @@
 **/
 
 
-global.owner = ['6281395861695', '59894808483']  
-global.mods = ['6281395861695'] 
-global.prems = ['6281395861695']
-global.nameowner = 'Tio'
-global.numberowner = '6281395861695' 
-global.mail = 'support@tioprm.my.id' 
-global.dana = '6281395861695'
-global.pulsa = '6281395861695'
-global.gopay = '6281395861695'
-global.namebot = 'BOTCAHX'
-global.gc = 'https://chat.whatsapp.com/Ln2vHjRrRayAbzalRMB56r'
-global.web = 'https://github.com/BOTCAHX'
-global.instagram = 'https://instagram.com/prm2.0'
-global.wm = '© Tio'
-global.watermark = wm
-global.wm2 = '⫹⫺ Tio'
-global.wm3 = '© Tio'
-global.wm4 = '© BotWa'
+global.owner = ['51945463812','51966099729']  
+global.mods = ['51945463812'] 
+global.prems = ['51945463812']
+global.nameowner = '𝐒𝐘𝐒𝕊𝕠𝕝𝕦𝕥𝕚𝕠𝕟𝕤'
+global.numberowner = '51945463812' 
+global.mail = 'SysSolutions.Peru@outlook.com' 
+global.dana = '51945463812'
+global.pulsa = '51945463812'
+global.gopay = '51945463812'
+global.namebot = '𝐒𝐘𝐒𝕊𝕠𝕝𝕦𝕥𝕚𝕠𝕟𝕤'
+global.gc = 'https://chat.whatsapp.com/I78hAmdyLzt8zBIxOIHRtd'
+global.web = 'https://github.com/SysSolutionsPE'
+global.instagram = 'https://instagram.com/syssolutionsperu'
+global.wm = '©𝐒𝐘𝐒𝕊𝕠𝕝𝕦𝕥𝕚𝕠𝕟𝕤'
+global.watermark = '𝐒𝐘𝐒𝕊𝕠𝕝𝕦𝕥𝕚𝕠𝕟𝕤'
+global.wm2 = '⫹⫺ 𝐒𝐘𝐒𝕊𝕠𝕝𝕦𝕥𝕚𝕠𝕟𝕤'
+global.wm3 = '© 𝐒𝐘𝐒𝕊𝕠𝕝𝕦𝕥𝕚𝕠𝕟𝕤'
+global.wm4 = '© 𝐒𝐘𝐒𝕊𝕠𝕝𝕦𝕥𝕚𝕠𝕟𝕤'
 global.wait = '_*Tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
 global.packname = 'Made with'
-global.author = 'Bot WhatsApp'
-global.alpiskey = 'YOUR_APIKEY_HERE' //daftar sendiri jika key habis https://alpis.eu.org
+global.author = '𝐒𝐘𝐒𝕊𝕠𝕝𝕦𝕥𝕚𝕠𝕟𝕤'
+global.alpiskey = 'a25d62c9' //daftar sendiri jika key habis https://alpis.eu.org
 
 global.btc = 'YOUR_APIKEY_HERE' //Daftar terlebih dahulu https://api.botcahx.live
 global.lann = 'YOUR_APIKEY_HERE' //Note Key Ini Hanya Bertahan Selama 4 Day Sejak Config.js update! lebih baik register di https://api.betabotz.me
